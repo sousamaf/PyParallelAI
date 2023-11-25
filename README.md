@@ -39,5 +39,5 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 ## Acknowledgments
 
 - A special thanks to all contributors and educators in the field of AI and concurrent/parallel programming.
-- This repository is a part of the educational material for AI on Unitins.
+- This repository is a part of the educational material for AI at Unitins.
 
